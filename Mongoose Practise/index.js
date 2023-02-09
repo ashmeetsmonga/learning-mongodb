@@ -43,4 +43,4 @@ const findOneAndDeleteDoc = async (findObject) => {
 // createDoc("Task 1", false);
 // findDoc({ completed: false });
 // findOneDoc({ completed: false });
-findOneAndDeleteDoc({ completed: false });
+//findOneAndDeleteDoc({ completed: false });
